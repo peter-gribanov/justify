@@ -6,6 +6,7 @@
  * @package   Justify
  * @author    Peter Gribanov <info@peter-gribanov.ru>
  * @copyright Copyright (c) 2014, Peter Gribanov
+ * @license   http://opensource.org/licenses/GPL-3.0 GPL v3
  */
 
 /**
